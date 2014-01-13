@@ -1,16 +1,19 @@
-//Scout Gump
-//by Erevan
-//v1.0
-/*
-**	This gump allows Staff to view all connected clients (similar to the [Who gump).
-**	The [Scout command optionally accepts Name arguments (i.e. [Scout Bob).
-**	Clicking the arrows will teleport you directly to the player.
-*/
+#region Header
+// **********
+// [AdaptUO] - Scout Gump
+// This gump allows Staff to view all connected clients (similar to the [Who gump).
+// The [Scout command optionally accepts Name arguments (i.e. [Scout Bob).
+// Clicking the arrows will teleport you directly to the player.
+// **********
+#endregion
+
+#region References
 using System;
 using System.Collections.Generic;
 using Server.Commands;
 using Server.Mobiles;
 using Server.Network;
+#endregion
 
 namespace Server.Gumps
 {

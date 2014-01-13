@@ -1,30 +1,21 @@
 #region Header
 // **********
-// AdaptUO - PowerScroll Bag
-// Author:  Orbit Storm
-// Version: v1.0
-// Release: 6-12-2012
-// **********
-// Description:
+// [AdaptUO] - PowerScroll Bag
 // This bag will allow players to transform collected 
 // PowerScrolls into an upgraded power.
 // **********
-// Installation:
-// Drag n' drop into your customs folder.
-// [Add PowerScrollBag
-// **********
 // Usage:
-// - Drop any PowerScroll, of any power, into the bag.
-// - Scrolls dropped into the bag after, must be of the same power.
-// - Powers 105/110 require 7 scrolls total.
-// - Powers 115/120 require 5 scrolls total.
-// - If all scrolls are of the same skill, the bag transforms them into the next power
-//   of the same skill. 
-//   (Ex: 7 115s of Archery, will reward a 120 of Archery; 
-//        just as 7 110s of Anatomy rewards a 115 of Anatomy.)
-// - If all scrolls are of the same power and belong to different skills, the bags transforms
-//   them into a random skill of the next power. (i.e. 5 random 115s = a random 120)
-// - To reset the bag, simply remove all scrolls from the bag.
+// Drop any PowerScroll, of any power, into the bag.
+// Scrolls dropped into the bag after, must be of the same power.
+// Powers 105/110 require 7 scrolls total.
+// Powers 115/120 require 5 scrolls total.
+// If all scrolls are of the same skill, the bag transforms them into the next power
+// of the same skill. 
+// (Ex: 7 115s of Archery, will reward a 120 of Archery; 
+// just as 7 110s of Anatomy rewards a 115 of Anatomy.)
+// If all scrolls are of the same power and belong to different skills, the bags transforms
+// them into a random skill of the next power. (i.e. 5 random 115s = a random 120)
+// To reset the bag, simply remove all scrolls from the bag.
 // **********
 // Other Notes:
 // You may need to add additional skills if your server provides scrolls for unlisted skills.

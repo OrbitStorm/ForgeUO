@@ -1,18 +1,21 @@
-//Scan Gump
-//By Erevan
-//v1.0
-/*
-**	This gump allows Staff to teleport between online players in quick succession.
-**	Simply toggling the arrows will teleport you to each player. A Go To button
-**	is positioned in the middle of the gump for teleporting to players who moved
-**  since you last teleported to them. Use [Scan to launch the gump.
-*/
+#region Header
+// **********
+// [AdaptUO] - Scan Gump
+// This gump allows Staff to teleport between online players in quick succession.
+// Simply toggling the arrows will teleport you to each player. A Go To button
+// is positioned in the middle of the gump for teleporting to players who moved
+// since you last teleported to them. Use [Scan to launch the gump.
+// **********
+#endregion
+
+#region References
 using System;
 using System.Collections.Generic;
 using Server;
 using Server.Gumps;
 using Server.Network;
 using Server.Commands;
+#endregion
 
 namespace Server.Gumps
 {

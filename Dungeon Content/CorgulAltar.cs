@@ -1,9 +1,16 @@
-/**********************/
-/*    Corgul Altar    */
-/*    Provided by:    */
-/*  Novitius Designs  */
-/**********************/
+#region Header
+// **********
+// [AdaptUO] - Corgul Altar
+// Part of High Seas content. Players must sacrifice a treasure map
+// and a world map to earn a "Corgul Map" (not included).
+// The Corgul Map is supposed to teleport the user and any nearby
+// party members to Cursed Island. This altar has a timer.
+// More info on Corgul the Soulbinder:
+// http://www.uoguide.com/Corgul_the_Soulbinder
+// **********
+#endregion
 
+#region References
 using System;
 using Server;
 using Server.Items;
@@ -15,6 +22,7 @@ using Server.ContextMenus;
 using Server.Prompts;
 using Server.Targeting;
 using Server.Network;
+#endregion
 
 public class CorgulAltar : Item
 {

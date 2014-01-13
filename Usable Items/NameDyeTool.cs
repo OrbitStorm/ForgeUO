@@ -1,14 +1,9 @@
 ﻿#region Header
 // **********
-// Item Name Dye Tool
-// ¤ Designed to hue a targeted item's name, ONCE.
-// ¤ Can be converted to unlimited uses by removing lines 116 & 145.
-// ¤ Feel free to customize messages/colors to your preference.
-// **********
-// Author:  Orbit Storm
-// Created: 3/17/2010
-// Revamp:  7/20/2012
-// Version: v1.2
+// [AdaptUO] - Item Name Dye Tool
+// Designed to hue a targeted item's name, ONCE.
+// Can be converted to unlimited uses by removing lines 116 & 145.
+// Feel free to customize messages/colors to your preference.
 // **********
 #endregion
 

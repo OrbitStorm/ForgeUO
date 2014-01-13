@@ -1,15 +1,19 @@
-/**********************/
-/*   Dungeon Barrel   */
-/*    Provided by:    */
-/*  Novitius Designs  */
-/**********************/
+#region Header
+// **********
+// [AdaptUO] - Dungeon Barrel
+// A chop-able barrel that will spawn a variety
+// of configurable loot or mobiles.
+// **********
+#endregion
 
+#region References
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using Server.Multis;
 using Server.Items;
 using Server.Mobiles;
+#endregion
 
 namespace Server.Items
 {
