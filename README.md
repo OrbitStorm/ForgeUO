@@ -1,7 +1,7 @@
-AdaptUO
+ForgeUO
 =======
 
-AdaptUO will no longer be supporting or sponsoring an official emulation package. Instead, we will be releasing custom content designed to function with the latest copies of RunUO and ServUO. If you're looking for a copy of the RunUO or ServUO software, please see the links below:
+ForgeUO will no longer be supporting or sponsoring an official emulation package. Instead, we will be releasing custom content designed to function with the latest copies of RunUO and ServUO. If you're looking for a copy of the RunUO or ServUO software, please see the links below:
 
 RunUO: http://runuo.com
 
