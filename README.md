@@ -11,4 +11,4 @@ Content provided via this repository is provided as-is and will be updated as ti
 
 Any content not containing a source or credit tag in the file header would indicate that the file was developed by myself. Any file that does contain a header is a revamp either for bug fixes or compatibility and I take absolutely no credit, implied or otherwise, for such content.
 
-Any file residing in the initial root structure is considered standalone. Anything that require distro/core edits will be packaged in its own folder.
+Any file residing in the initial root structure is considered standalone. Anything that requires distro/core edits will be packaged in its own folder.
