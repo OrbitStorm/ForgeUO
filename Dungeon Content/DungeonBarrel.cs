@@ -1,6 +1,6 @@
 #region Header
 // **********
-// [AdaptUO] - Dungeon Barrel
+// [ForgeUO] - Dungeon Barrel
 // A chop-able barrel that will spawn a variety
 // of configurable loot or mobiles.
 // **********
