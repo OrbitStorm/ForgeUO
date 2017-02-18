@@ -1,6 +1,6 @@
 #region Header
 // **********
-// [AdaptUO] - Scan Gump
+// [ForgeUO] - Scan Gump
 // This gump allows Staff to teleport between online players in quick succession.
 // Simply toggling the arrows will teleport you to each player. A Go To button
 // is positioned in the middle of the gump for teleporting to players who moved
