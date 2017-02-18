@@ -1,6 +1,6 @@
 #region Header
 // **********
-// [AdaptUO] - Scout Gump
+// [ForgeUO] - Scout Gump
 // This gump allows Staff to view all connected clients (similar to the [Who gump).
 // The [Scout command optionally accepts Name arguments (i.e. [Scout Bob).
 // Clicking the arrows will teleport you directly to the player.
