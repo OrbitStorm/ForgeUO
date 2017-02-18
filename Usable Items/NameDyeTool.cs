@@ -1,6 +1,6 @@
 ﻿#region Header
 // **********
-// [AdaptUO] - Item Name Dye Tool
+// [ForgeUO] - Item Name Dye Tool
 // Designed to hue a targeted item's name, ONCE.
 // Can be converted to unlimited uses by removing lines 116 & 145.
 // Feel free to customize messages/colors to your preference.
