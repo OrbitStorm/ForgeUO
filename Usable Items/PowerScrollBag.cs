@@ -1,6 +1,6 @@
 #region Header
 // **********
-// [AdaptUO] - PowerScroll Bag
+// [ForgeUO] - PowerScroll Bag
 // This bag will allow players to transform collected 
 // PowerScrolls into an upgraded power.
 // **********
