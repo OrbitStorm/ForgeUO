@@ -1,6 +1,6 @@
 #region Header
 // **********
-// [AdaptUO] - Corgul Altar
+// [ForgeUO] - Corgul Altar
 // Part of High Seas content. Players must sacrifice a treasure map
 // and a world map to earn a "Corgul Map" (not included).
 // The Corgul Map is supposed to teleport the user and any nearby
